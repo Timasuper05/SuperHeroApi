@@ -6,6 +6,6 @@
         public string FirstName { get; set; } = string.Empty;
         public string LastName { get; set; } = string.Empty;
         public string Place { get; set; } = string.Empty; 
-        public string Pla { get; set; } = string.Empty;
+        public string Plaсe1 { get; set; } = string.Empty;
     }
 }
